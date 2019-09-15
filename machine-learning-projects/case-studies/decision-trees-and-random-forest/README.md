@@ -6,9 +6,8 @@ Decision tree builds classification or regression models in the form of a tree s
 
 ### Amazon Alexa Review Ratings Classification
 
-Dataset consists of 3000 Amazon customer reviews, star ratings, date of review, variant and feedback of various amazon Alexa products like Alexa Echo, Echo dots.
-
-The objective is to discover insights into consumer reviews and perfrom sentiment analysis on the data
+ - Dataset consists of 3000 Amazon customer reviews, star ratings, date of review, variant and feedback of various amazon Alexa products like Alexa Echo, Echo dots.
+ - The objective is to discover insights into consumer reviews and perfrom sentiment analysis on the data
 
 ---
 
